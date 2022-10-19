@@ -31,7 +31,7 @@ Contact :
 
 # Azure Services Used : Static Web Apps
 
-![image](https://user-images.githubusercontent.com/93240856/196586655-f1f5dc71-9bba-427b-bc93-9a273b07ad4f.png)
+![image](https://user-images.githubusercontent.com/93240856/196586819-54a6f63e-8dcd-42e8-94d2-ec2e4cf139c4.png)
 
 # Live project deployed on Azure Services 
 
