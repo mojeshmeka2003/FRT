@@ -1,6 +1,6 @@
 # Future Ready Talent Project
 
-# Access my Future Ready Talent project which is deployed on azure on : https://polite-plant-023b9ea10.1.azurestaticapps.net/
+# Access my Future Ready Talent project which is deployed on azure on : https://zealous-flower-083461f10.2.azurestaticapps.net
 
 # This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project
 
@@ -16,7 +16,7 @@ Features :
 
 ![image](https://user-images.githubusercontent.com/93240856/196584042-a37c922d-f450-4e7c-9b7a-7f61cbf0816d.png)
 
-Tours :
+Services :
 
 ![image](https://user-images.githubusercontent.com/93240856/196584078-1ff4ad43-9b7d-4d29-8a2a-8dc723e07e9d.png)
 
@@ -35,4 +35,4 @@ Contact :
 
 # Live project deployed on Azure Services 
 
-![image](https://user-images.githubusercontent.com/93240856/196584270-ac7baf4b-08d1-43c3-8f65-09cc65158699.png)
+![image](https://user-images.githubusercontent.com/93240856/196586546-cad73c88-c1c8-4c6a-acb0-6e307ac18352.png)
